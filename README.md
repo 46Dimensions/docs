@@ -1,2 +1,2 @@
-# docs
-Documentation for 46Dimensions repositories
+# 46Dimensions Docs
+Documentation for 46Dimensions repositories.
